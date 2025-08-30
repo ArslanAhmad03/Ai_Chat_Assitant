@@ -5,7 +5,8 @@ Integrated OpenAI and Gemini APIs in a Flutter app using http for chat responses
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Uploading frontSide.jpg…]()
+![frontSide](https://github.com/user-attachments/assets/16bb62c4-39ea-4478-8170-f145d8e02822)
+
 ![backSide](https://github.com/user-attachments/assets/4fe880e4-363d-488d-9023-5d36bed17a2c)
 
 
